@@ -15,7 +15,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'thomas370', // Usually your GitHub org/user name.
-  projectName: "WikiWoop", // Usually your repo name.
+  projectName: "WikiWoop.github.io", // Usually your repo name.
+  trailingSlash: false,
   i18n: {
     defaultLocale: 'fr',
     locales: ['fr'],
