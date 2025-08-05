@@ -9,7 +9,7 @@ const duotoneLight = require('prism-react-renderer/themes/duotoneLight')
 const config = {
   title: 'Documentation',
   tagline: '📚 Bienvenue dans le Wiki, n\'hésitez pas à explorer ',
-  url: 'https://<ton_user>.github.io',
+  url: 'https://thomas370.github.io',
   baseUrl: '/WikiWoop/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
