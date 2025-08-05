@@ -5,72 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26e526e2-6f04-4648-b786-55da68c19be1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Informatiques/reseau/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corbeille - Raccourci.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/2021-08-26-welcome/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/2021-08-26-welcome/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/2022-03-25-Daily.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/2022-03-25-Daily.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/DNS 配置指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/Digital_Privacy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/Quantumult X脚本教程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/Windows Vim 配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/assets/img/baiduyun.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/assets/img/dd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/assets/img/phone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/assets/img/qq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/assets/img/readme.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Guide/assets/img/xiaomiad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/JS_Channel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/JavaScript 基础.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/JavaScript常用技巧.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/import assertions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/关于 for...in.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/关于错误处理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/数组序列生成.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/JavaScript/深浅拷贝.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeSkill/Windows小技巧.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeSkill/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeSkill/assets/动画1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeSkill/assets/动画2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeSkill/冲浪小技巧.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeSkill/如何免费激活 IDM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeStyle/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeStyle/应急物资清单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LifeStyle/ 我的订阅.mdx" beforePathEscaped="$PROJECT_DIR$/docs/LifeStyle/🎁 我的订阅.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Notes/Kali 指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Notes/MDX 学习.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Notes/Raspberry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Notes/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Notes/pwnagotchi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Notes/业余无线电上手指南.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Resources/100 种不错的免费工具和资源.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Resources/Online_Tools 情报搜集.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Resources/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Resources/assets/IMG_0104.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Resources/互联网学习资源.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Resources/全球PDF资源.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Resources/国家标准、行业标准、地方标准查询、下载网址汇总.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Resources/在线影视视频网站合集.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Informatiques/reseau/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Informatiques/reseau/_category_.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/CSS Learnning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/DevTips_Git_Npm_WSL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/Git Hooks 配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/Git使用规范.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/LeetCode刷题记录.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/MyRoadMap.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/React Native.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/React 笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/TypeScript笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/Type_Challenges.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/VSCode API.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/VSCode进阶配置.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/Vite配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/Vue 笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/如何配置环境变量env.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/程序相关/零宽字符.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\pc\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "C:\\Users\\pc\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -139,7 +81,7 @@
       <workItem from="1753276681371" duration="1237000" />
       <workItem from="1753389060118" duration="1568000" />
       <workItem from="1753433721889" duration="1304000" />
-      <workItem from="1754390875060" duration="318000" />
+      <workItem from="1754390875060" duration="639000" />
     </task>
     <servers />
   </component>
