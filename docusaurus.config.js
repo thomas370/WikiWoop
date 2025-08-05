@@ -9,12 +9,12 @@ const duotoneLight = require('prism-react-renderer/themes/duotoneLight')
 const config = {
   title: 'Documentation',
   tagline: '📚 Bienvenue dans le Wiki, n\'hésitez pas à explorer ',
-  url: 'https://wiki.404Lab.top',
-  baseUrl: '/',
+  url: 'https://<ton_user>.github.io',
+  baseUrl: '/WikiWoop/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'WikiWoop', // Usually your GitHub org/user name.
+  organizationName: 'thomas370', // Usually your GitHub org/user name.
   projectName: "WikiWoop", // Usually your repo name.
   i18n: {
     defaultLocale: 'fr',
