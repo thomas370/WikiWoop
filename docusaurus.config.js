@@ -10,7 +10,7 @@ const config = {
   title: 'Documentation',
   tagline: '📚 Bienvenue dans le Wiki, n\'hésitez pas à explorer ',
   url: 'https://thomas370.github.io',
-  baseUrl: '/WikiWoop/',
+  baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -48,7 +48,7 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/thomas370/WikiWoop/tree/main/',
         },
         pages: {
           path: 'src/pages',
