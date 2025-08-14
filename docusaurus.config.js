@@ -43,7 +43,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/HiChen404/MyWikiSite/tree/master/',
+          editUrl: 'https://github.com/thomas370/WikiWoop/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -79,12 +79,8 @@ const config = {
         // contextualSearch: true,
       },
 
-      navbar: {
+       navbar: {
         title: 'WikiWoop',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/favicon.ico',
-        },
         items: [
           /*{
             type: 'doc',
@@ -94,7 +90,7 @@ const config = {
           },*/
         ],
       },
-      footer: {
+       footer: {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Thomas Project, Inc.`,
       },
@@ -111,7 +107,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '🚀 Si tu trouves ça sympa, laisse une ⭐️ étoile ~ <a target="_blank" rel="noopener noreferrer" href="https://github.com/HiChen404/MyWikiSite/tree/master/">Clique ici</a>',
+          '🚀 Si tu trouves ça sympa, laisse une ⭐️ étoile ~ <a target="_blank" rel="noopener noreferrer" href="https://github.com/thomas370/WikiWoop/tree/main/">Clique ici</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,
