@@ -73,7 +73,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: '2dc197c65a9a3bc16515f64933bb50b5',
 
-        indexName: 'wiki-404lab-top',
+        indexName: 'wikiwoop',
 
         // Optional: see doc section below
         // contextualSearch: true,
