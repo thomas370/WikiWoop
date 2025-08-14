@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Daily","permalink":"/WikiWoop/blog/2022/03/25/Daily"},{"title":"welcome","permalink":"/WikiWoop/blog/2021/08/26/welcome"}]}')}}]);

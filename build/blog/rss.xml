@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Documentation Blog</title>
+        <link>https://thomas370.github.io/WikiWoop/blog</link>
+        <description>Documentation Blog</description>
+        <lastBuildDate>Fri, 25 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>fr</language>
+        <item>
+            <title><![CDATA[Daily]]></title>
+            <link>https://thomas370.github.io/WikiWoop/blog/2022/03/25/Daily</link>
+            <guid>/2022/03/25/Daily</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[welcome]]></title>
+            <link>https://thomas370.github.io/WikiWoop/blog/2021/08/26/welcome</link>
+            <guid>/2021/08/26/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
