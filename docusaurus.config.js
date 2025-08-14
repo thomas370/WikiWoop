@@ -79,12 +79,8 @@ const config = {
         // contextualSearch: true,
       },
 
-      navbar: {
+       navbar: {
         title: 'WikiWoop',
-        logo: {
-          alt: 'WikiWoop',
-          src: 'img/favicon.ico',
-        },
         items: [
           /*{
             type: 'doc',
@@ -94,7 +90,7 @@ const config = {
           },*/
         ],
       },
-      footer: {
+       footer: {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Thomas Project, Inc.`,
       },

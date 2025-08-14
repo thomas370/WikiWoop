@@ -13,7 +13,6 @@ title: Accueil
 ---
 
 import Highlight from "../src/components/highlight"
-import ToolTip from "../src/components/tooltip"
 
 <a href="https://github.com/thomas370/WikiWoop">
 <img alt="github" className="Badges" src="https://img.shields.io/github/last-commit/thomas370/WikiWoop?label=Dernière%20mise%20à%20jour&logo=github&style=for-the-badge" width="200px"/>
